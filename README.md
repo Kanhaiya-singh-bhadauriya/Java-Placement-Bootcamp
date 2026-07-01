@@ -62,7 +62,7 @@ Problem Solving
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 - Java
 - Git

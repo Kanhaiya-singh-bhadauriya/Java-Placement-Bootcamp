@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build folders
+bin/
+out/
