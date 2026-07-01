@@ -19,12 +19,35 @@ A structured 90-day Java placement preparation journey focused on building stron
 
 ---
 
+
+## 🎯 Current Focus
+
+```text
+Arrays
+Searching
+Problem Solving
+```
+
+---
+
 ## 📅 Progress
 
 | Day | Status | Topics |
 |------|--------|--------|
 | Day 1 | ✅ Completed | Arrays, Largest & Smallest Element |
 | Day 2 | ✅ Completed | Sum of Array, Even/Odd Count, Linear Search |
+
+---
+
+## 📅 Progress
+
+- [x] Day 1
+- [x] Day 2
+- [ ] Day 3
+- [ ] Day 4
+- [ ] Day 5
+- [ ] Day 6
+- [ ] Day 7
 
 ---
 
@@ -71,6 +94,15 @@ Java-Placement-Bootcamp
 - Commit code after every completed program.
 - Maintain clean and readable code.
 - Focus on understanding instead of memorizing.
+
+---
+
+## ▶️ How to Run
+
+```bash
+javac FileName.java
+java FileName
+```
 
 ---
 
