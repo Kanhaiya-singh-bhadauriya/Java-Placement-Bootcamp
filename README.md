@@ -1,5 +1,10 @@
 # ☕ Java Placement Bootcamp
 
+![Java](https://img.shields.io/badge/Java-Programming-orange)
+![Status](https://img.shields.io/badge/Bootcamp-In%20Progress-brightgreen)
+![Days](https://img.shields.io/badge/Completed-2%2F90-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Daily%20Commits-black)
+
 A structured 90-day Java placement preparation journey focused on building strong problem-solving skills and becoming placement-ready.
 
 ---
