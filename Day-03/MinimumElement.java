@@ -1,3 +1,24 @@
+/*
+------------------------------------------------------------
+Java Placement Bootcamp
+Day 3
+
+Problem:
+Find Minimum Element in an Array
+
+Example:
+Input:
+12 8 45 21 10
+
+Output:
+Minimum Element = 8
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Author: Kanhaiya Singh Bhadauriya
+------------------------------------------------------------
+*/
 import java.util.Scanner;
 public class MinimumElement {
     public static void main(String[] args){
