@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-Programming-orange)
 ![Status](https://img.shields.io/badge/Bootcamp-In%20Progress-brightgreen)
-![Days](https://img.shields.io/badge/Completed-3%2F90-blue)
+![Days](https://img.shields.io/badge/Completed-4%2F90-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Daily%20Commits-black)
 
 A structured **90-Day Java Placement Preparation Journey** focused on building strong problem-solving skills, mastering Java, and becoming placement-ready.
@@ -24,6 +24,7 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - Arrays
 - Array Traversal
 - Problem Solving
+- Pattern Recognition
 
 ---
 
@@ -32,7 +33,7 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - [x] Day 1
 - [x] Day 2
 - [x] Day 3
-- [ ] Day 4
+- [x] Day 4
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
@@ -49,6 +50,7 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 | Day 1 | ✅ Completed | Largest & Smallest Element |
 | Day 2 | ✅ Completed | Sum of Array, Even/Odd Count, Linear Search |
 | Day 3 | ✅ Completed | Maximum Element, Minimum Element, Count Positive/Negative/Zero, Reverse Array |
+| Day 4 | ✅ Completed | Second Largest Element, Check Sorted Array, Sum of Elements Divisible by 3 |
 
 ---
 
@@ -63,8 +65,11 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - Linear Search
 - Maximum Element
 - Minimum Element
+- Second Largest Element
 - Counting Elements
 - Reverse Traversal
+- Boolean Flag Pattern
+- Conditional Accumulation
 
 ---
 
@@ -93,11 +98,16 @@ Java-Placement-Bootcamp
 │   ├── EvenOddCount.java
 │   ├── LinearSearch.java
 │
-└── Day-03
-    ├── MaximumElement.java
-    ├── MinimumElement.java
-    ├── CountPositiveNegativeZero.java
-    └── ReverseArray.java
+├── Day-03
+│   ├── MaximumElement.java
+│   ├── MinimumElement.java
+│   ├── CountPositiveNegativeZero.java
+│   └── ReverseArray.java
+│
+└── Day-04
+    ├── SecondLargestElement.java
+    ├── CheckSortedArray.java
+    └── SumDivisibleByThree.java
 ```
 
 ---
@@ -124,8 +134,8 @@ java FileName
 
 # 📈 Current Statistics
 
-- ✅ Days Completed: **3 / 90**
-- ✅ Programs Solved: **9**
+- ✅ Days Completed: **4 / 90**
+- ✅ Programs Solved: **12**
 - ✅ GitHub Repository: Active
 - ✅ Daily Commit Streak: In Progress
 
@@ -154,4 +164,5 @@ java FileName
 🚀 Building a public **90-Day Java Placement Bootcamp** while learning Java and Data Structures & Algorithms.
 
 GitHub Profile:
+
 https://github.com/Kanhaiya-singh-bhadauriya
