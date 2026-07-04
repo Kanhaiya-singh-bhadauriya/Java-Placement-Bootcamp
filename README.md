@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-Programming-orange)
 ![Status](https://img.shields.io/badge/Bootcamp-In%20Progress-brightgreen)
-![Days](https://img.shields.io/badge/Completed-4%2F90-blue)
+![Days](https://img.shields.io/badge/Completed-5%2F90-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Daily%20Commits-black)
 
 A structured **90-Day Java Placement Preparation Journey** focused on building strong problem-solving skills, mastering Java, and becoming placement-ready.
@@ -25,6 +25,7 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - Array Traversal
 - Problem Solving
 - Pattern Recognition
+- Array Manipulation
 
 ---
 
@@ -34,7 +35,7 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - [x] Day 2
 - [x] Day 3
 - [x] Day 4
-- [ ] Day 5
+- [x] Day 5
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
@@ -51,6 +52,7 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 | Day 2 | ✅ Completed | Sum of Array, Even/Odd Count, Linear Search |
 | Day 3 | ✅ Completed | Maximum Element, Minimum Element, Count Positive/Negative/Zero, Reverse Array |
 | Day 4 | ✅ Completed | Second Largest Element, Check Sorted Array, Sum of Elements Divisible by 3 |
+| Day 5 | ✅ Completed | Frequency of Element, Find Missing Number, Merge Two Arrays |
 
 ---
 
@@ -70,6 +72,10 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - Reverse Traversal
 - Boolean Flag Pattern
 - Conditional Accumulation
+- Frequency Counting
+- Missing Number
+- Array Merging
+- Formatted Output (printf)
 
 ---
 
@@ -104,10 +110,15 @@ Java-Placement-Bootcamp
 │   ├── CountPositiveNegativeZero.java
 │   └── ReverseArray.java
 │
-└── Day-04
-    ├── SecondLargestElement.java
-    ├── CheckSortedArray.java
-    └── SumDivisibleByThree.java
+|── Day-04
+|   ├── SecondLargestElement.java
+|   ├── CheckSortedArray.java
+|   └── SumDivisibleByThree.java
+|── Day-05
+    ├── README.md
+    ├── FrequencyOfElement.java
+    ├── FindMissingNumber.java
+    └── MergeTwoArrays.java
 ```
 
 ---
@@ -134,10 +145,11 @@ java FileName
 
 # 📈 Current Statistics
 
-- ✅ Days Completed: **4 / 90**
-- ✅ Programs Solved: **12**
+- ✅ Days Completed: **5 / 90**
+- ✅ Programs Solved: **15**
 - ✅ GitHub Repository: Active
 - ✅ Daily Commit Streak: In Progress
+- ✅ HackerRank Java Problems: **5**
 
 ---
 
