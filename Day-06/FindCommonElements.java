@@ -1,3 +1,15 @@
+/*
+------------------------------------------------------------
+Java Placement Bootcamp
+Day 06
+
+Problem:
+Find Common Elements
+
+Author:
+Kanhaiya Singh Bhadauriya
+------------------------------------------------------------
+*/
 import java.util.Scanner;
 public class FindCommonElements {
     public static void main(String[] args) {
