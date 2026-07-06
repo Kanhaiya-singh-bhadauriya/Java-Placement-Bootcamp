@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-Programming-orange)
 ![Status](https://img.shields.io/badge/Bootcamp-In%20Progress-brightgreen)
-![Days](https://img.shields.io/badge/Completed-5%2F90-blue)
+![Days](https://img.shields.io/badge/Completed-7%2F90-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Daily%20Commits-black)
 
 A structured **90-Day Java Placement Preparation Journey** focused on building strong problem-solving skills, mastering Java, and becoming placement-ready.
@@ -36,8 +36,8 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - [x] Day 3
 - [x] Day 4
 - [x] Day 5
-- [ ] Day 6
-- [ ] Day 7
+- [x] Day 6
+- [x] Day 7
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
@@ -53,6 +53,8 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 | Day 3 | ✅ Completed | Maximum Element, Minimum Element, Count Positive/Negative/Zero, Reverse Array |
 | Day 4 | ✅ Completed | Second Largest Element, Check Sorted Array, Sum of Elements Divisible by 3 |
 | Day 5 | ✅ Completed | Frequency of Element, Find Missing Number, Merge Two Arrays |
+| Day 6 | ✅ Completed | First Duplicate, Last Duplicate, Left Rotate Array, Right Rotate Array, Find Common Elements, HackerRank Java Loops II |
+| Day 7 | ✅ Completed | Find Frequency of Each Element, Find Unique Elements, Remove Duplicate Elements |
 
 ---
 
@@ -76,6 +78,18 @@ A structured **90-Day Java Placement Preparation Journey** focused on building s
 - Missing Number
 - Array Merging
 - Formatted Output (printf)
+- Duplicate Detection
+- First Duplicate Element
+- Last Duplicate Element
+- Left Rotation
+- Right Rotation
+- Common Elements
+- Running Sum
+- Unique Elements
+- Distinct Elements
+- Algorithm Selection
+- Nested Loop Pattern
+- continue Statement
 
 ---
 
@@ -110,15 +124,28 @@ Java-Placement-Bootcamp
 │   ├── CountPositiveNegativeZero.java
 │   └── ReverseArray.java
 │
-|── Day-04
+├── Day-04
 |   ├── SecondLargestElement.java
 |   ├── CheckSortedArray.java
 |   └── SumDivisibleByThree.java
-|── Day-05
-    ├── README.md
-    ├── FrequencyOfElement.java
-    ├── FindMissingNumber.java
-    └── MergeTwoArrays.java
+├── Day-05
+|   ├── README.md
+|   ├── FrequencyOfElement.java
+|   ├── FindMissingNumber.java
+|   └── MergeTwoArrays.java
+├── Day-06
+│   ├── README.md
+│   ├── FindFirstDuplicateElement.java
+│   ├── FindLastDuplicateElement.java
+│   ├── LeftRotateArray.java
+│   ├── RightRotateArray.java
+│   └── FindCommonElements.java
+│
+├── Day-07
+│   ├── README.md
+│   ├── FindFrequencyOfEachElement.java
+│   ├── FindUniqueElements.java
+│   └── RemoveDuplicateElements.java
 ```
 
 ---
@@ -145,22 +172,21 @@ java FileName
 
 # 📈 Current Statistics
 
-- ✅ Days Completed: **5 / 90**
-- ✅ Programs Solved: **15**
+- ✅ Days Completed: **7 / 90**
+- ✅ Programs Solved: **24**
 - ✅ GitHub Repository: Active
 - ✅ Daily Commit Streak: In Progress
-- ✅ HackerRank Java Problems: **5**
+- ✅ HackerRank Java Problems: **6**
 
 ---
 
 # 🚀 Upcoming Topics
 
-- Arrays
+- Advanced Array Problems
 - Searching
-- Array Manipulation
+- Sorting
 - Methods
 - Strings
-- Sorting
 - Object-Oriented Programming
 - Collections Framework
 - Data Structures & Algorithms
